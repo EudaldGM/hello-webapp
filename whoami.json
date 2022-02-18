@@ -1,0 +1,15 @@
+{
+    "name": "Eudald",
+    "lastname": "Guillen Masip",
+    "age": 27,
+    "nationality": "Spanish",
+    "livesin": "Barcelona",
+    "interests": [
+      "Sports",
+      "Learning",
+      "Technology"
+    ],
+    "dreams": [
+      "Beach house near barcelona."
+    ],
+  }
